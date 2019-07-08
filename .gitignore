@@ -59,3 +59,7 @@ typings/
 
 # next.js build output
 .next
+
+# Gatsby cache files
+site/.cache
+gatsby-theme-joey-blog/.cache
